@@ -50,7 +50,7 @@ SETTINGS
 */
 botName = "KAMAGAPO BOT" // NAMA BOT
 ownerName = "Joceylintangg :v " // NAMA OWNER
-vhtear = "nekobotofficial" // https://vhtear.com
+vhtear = "KAMAGAPO BOT" // https://vhtear.com
 xteam = "APIKEY" // https://api.xteam.xyz
 prefix = "." // PREFIX / AWAEl
 limitawal = "100" // LIMIT USER
