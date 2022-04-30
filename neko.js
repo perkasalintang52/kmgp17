@@ -48,20 +48,20 @@ const {
 /*
 SETTINGS
 */
-botName = "NEKO BOT" // NAMA BOT
-ownerName = "anda siapa :v " // NAMA OWNER
+botName = "KAMAGAPO BOT" // NAMA BOT
+ownerName = "Joceylintangg :v " // NAMA OWNER
 vhtear = "nekobotofficial" // https://vhtear.com
 xteam = "APIKEY" // https://api.xteam.xyz
 prefix = "." // PREFIX / AWAEl
 limitawal = "100" // LIMIT USER
 memberlimit = "6" // MEMBER LIMIT GROUP
 cr = "*NEKOPOI*" // FAKE REPLY
-const ownerNumber = ["628815887040@s.whatsapp.net","6282250148813@s.whatsapp.net","19199161047@s.whatsapp.net"]
+const ownerNumber = ["6281322577123@s.whatsapp.net","6281322577123@s.whatsapp.net","6281322577123@s.whatsapp.net"]
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:anda siapa :v\n' // NAMA OWNER
-            + 'ORG:FUCK BOY;\n' // NAMA BOT
-            + 'TEL;type=CELL;type=VOICE;waid=628815887040:+62 881-5887-040\n' // NOMOR OWNER
+            + 'FN:Joceylintangg :v\n' // NAMA OWNER
+            + 'ORG:KAMAGAPO BOT;\n' // NAMA BOT
+            + 'TEL;type=CELL;type=VOICE;waid=6281322577123:+62 813-2257-7123\n' // NOMOR OWNER
             + 'END:VCARD'
 /*
 SETTINGS
